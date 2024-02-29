@@ -1,3 +1,3 @@
-# Tools for software development
+# Software development
 
 Collection of useful tools for software development hosted on http://xatenev.com.
